@@ -46,5 +46,6 @@ public class DashboardActivity extends AppCompatActivity {
                 customType(DashboardActivity.this,"up-to-bottom");
             }
         });
+        // did some changes
     }
 }
